@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+		"@wdio/cli": "^9.23.2",
+		"@wdio/local-runner": "^9.23.2",
+		"@wdio/mocha-framework": "^9.23.2"
+  },
+  "scripts": {
+    "tauri": "tauri",
+    "webdriverio": "wdio run webdriverio.js"
+  }
+}
