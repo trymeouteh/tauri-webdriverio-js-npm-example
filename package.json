@@ -8,6 +8,6 @@
   },
   "scripts": {
     "tauri": "tauri",
-    "webdriverio": "wdio run webdriverio.js"
+    "webdriverio": "wdio run wdio.conf.js"
   }
 }
